@@ -3,6 +3,6 @@
 ## I'm beginner QA
 
 ## Language and Tools
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-bage&logo=SQL&logoColor=FFFF00)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-bage&logo=MySQL&logoColor=FFFF00)
 
 Follow Me
