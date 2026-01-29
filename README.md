@@ -3,6 +3,6 @@
 ## I'm beginner QA
 
 ## Language and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-bage&logo=flutter&logoColor=47C5FB)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-bage&logo=SQL&logoColor=FFFF00)
 
 Follow Me
